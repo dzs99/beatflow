@@ -4,7 +4,7 @@ Entrega final de Aplicaciones de Internet — AD2026.
 
 - Aplicación: https://beatflow-dzs99.netlify.app/
 - Repositorio: https://github.com/dzs99/beatflow
-- Video: [demostración de funcionalidad](https://beatflow-dzs99.netlify.app/evidencias/BeatFlow-funcionalidad.mp4)
+- Video: guardado únicamente en la computadora, no se publica.
 - Referencia del profesor: https://github.com/MarcoARamirezS/aplicaciones-de-internet-ad-2026/tree/master/projects/betflow/docs
 
 ## Funcionalidad de las cuatro sesiones
@@ -49,7 +49,7 @@ Las pruebas de navegador y la demostración usan canciones reales de Audius.
 
 - [Código de la sesión 2](evidencias/BeatFlow%20-%20Sesion%202.md).
 - [Código de la sesión 3](evidencias/BeatFlow%20-%20Sesion%203.md).
-- [Video de funcionalidad alojado en Netlify](https://beatflow-dzs99.netlify.app/evidencias/BeatFlow-funcionalidad.mp4).
+- Video de funcionalidad: archivo local, excluido de la publicación.
 - [Comprobación de la entrega final](evidencias/VALIDACION.md).
 
 Netlify publica la carpeta raíz; no hay paso de compilación.
