@@ -4,7 +4,7 @@ Entrega final de Aplicaciones de Internet — AD2026.
 
 - Aplicación: https://beatflow-dzs99.netlify.app/
 - Repositorio: https://github.com/dzs99/beatflow
-- Video: [demostración de funcionalidad](evidencias/BeatFlow-funcionalidad.mp4)
+- Video: [demostración de funcionalidad](https://beatflow-dzs99.netlify.app/evidencias/BeatFlow-funcionalidad.mp4)
 - Referencia del profesor: https://github.com/MarcoARamirezS/aplicaciones-de-internet-ad-2026/tree/master/projects/betflow/docs
 
 ## Funcionalidad de las cuatro sesiones
