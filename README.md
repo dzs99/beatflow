@@ -43,13 +43,13 @@ Las pruebas de navegador y la demostración usan canciones reales de Audius.
 - `js/services/`: audio, cola y persistencia.
 - `js/ui/`: Inicio, búsqueda, biblioteca, estados y reproductor.
 - `js/app.js`: conexión de controles y estado de la aplicación.
-- `evidencias/`: video de la aplicación y comprobaciones de la entrega.
+- `evidencias/`: código de las sesiones y comprobaciones de la entrega.
 
 ## Evidencias de las clases
 
 - [Código de la sesión 2](evidencias/BeatFlow%20-%20Sesion%202.md).
 - [Código de la sesión 3](evidencias/BeatFlow%20-%20Sesion%203.md).
-- [Video de funcionalidad](evidencias/BeatFlow-funcionalidad.mp4).
+- [Video de funcionalidad alojado en Netlify](https://beatflow-dzs99.netlify.app/evidencias/BeatFlow-funcionalidad.mp4).
 - [Comprobación de la entrega final](evidencias/VALIDACION.md).
 
 Netlify publica la carpeta raíz; no hay paso de compilación.
